@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Colour Palette Extension",
+  "description": "Page to generate a random colour Palette",
+  "version": "1.0",
+
+  "chrome_url_overrides": {
+    "newtab": "colourPage.html"
+  }
+}
